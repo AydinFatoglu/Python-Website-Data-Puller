@@ -8,11 +8,11 @@ ENJOY!
 
 # Used Python PyPI Modules
 
-** Beautiful Soup **
+**Beautiful Soup**
 
 Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree.
 
-** cloudscraper **
+**cloudscraper**
 
 A simple Python module to bypass Cloudflare's anti-bot page (also known as "I'm Under Attack Mode", or IUAM), implemented with Requests. Cloudflare changes their techniques periodically, so I will update this repo frequently.
 
